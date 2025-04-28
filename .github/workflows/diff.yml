@@ -13,10 +13,6 @@ jobs:
     - name: Set up Git repository
       uses: actions/checkout@v4
 
-    - run: |
-        cd .. && cp -r COMPASS2025-LBW-Sensor _original && mv _original COMPASS2025-LBW-Sensor
-        cd COMPASS2025-LBW-Sensor/_original && git checkout compass-2025-submission
-
     - run: echo "\$pdflatex = \"latexdiff main.tex main2.tex > main-d.tex; pdflatex %O  main-d\"" > test
 
     - name: Build LaTeX
