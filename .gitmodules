@@ -1,4 +1,0 @@
-[submodule "_original"]
-	path = _original
-	url = git@github.com:chanwutk/COMPASS2025-LBW-Sensor.git
-	branch = compass-2025-submission
