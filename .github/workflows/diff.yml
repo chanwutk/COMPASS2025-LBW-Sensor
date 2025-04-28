@@ -13,7 +13,7 @@ jobs:
     - name: Set up Git repository
       uses: actions/checkout@v4
 
-    - run:
+    - run: |
         git clone --depth=1 --branch compass-2025-submission git@github.com:chanwutk/COMPASS2025-LBW-Sensor.git _original
         echo "\$pdflatex = \"latexdiff compass2025.tex _original/compass2025.tex > compass2025-d.tex; pdflatex %O  compass2025-d\"" > latexmkrc
 
