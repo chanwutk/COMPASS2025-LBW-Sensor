@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.1)  28 APR 2025 16:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.1)  28 APR 2025 16:48
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1385,38 +1385,38 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@posthook=\toks62
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 213.
+(Font)              scaled to size 17.28pt on input line 216.
 LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
-n input line 213.
+n input line 216.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 213.
+(Font)              scaled to size 17.28pt on input line 216.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 213.
+(Font)              scaled to size 17.28pt on input line 216.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 213.
+(Font)              scaled to size 12.0pt on input line 216.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 213.
+(Font)              scaled to size 10.0pt on input line 216.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 213.
+(Font)              scaled to size 10.0pt on input line 216.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 10.0pt on input line 213.
+(Font)              scaled to size 10.0pt on input line 216.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 10.0pt on input line 213.
+(Font)              scaled to size 10.0pt on input line 216.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 10.0pt on input line 213.
+(Font)              scaled to size 10.0pt on input line 216.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
@@ -1425,72 +1425,72 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 10.0pt on input line 213.
+(Font)              scaled to size 10.0pt on input line 216.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 10.0pt on input line 213.
+(Font)              scaled to size 10.0pt on input line 216.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 10.0pt on input line 213.
+(Font)              scaled to size 10.0pt on input line 216.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 10.0pt on input line 213.
+(Font)              scaled to size 10.0pt on input line 216.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 213.
+(Font)              scaled to size 7.0pt on input line 216.
 LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
- on input line 213.
+ on input line 216.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 213.
+(Font)              scaled to size 7.0pt on input line 216.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 213.
+(Font)              scaled to size 9.0pt on input line 216.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 213.
+(Font)              scaled to size 10.95pt on input line 216.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 213.
+(Font)              scaled to size 8.0pt on input line 216.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 213.
+(Font)              scaled to size 8.0pt on input line 216.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 213.
+(Font)              scaled to size 8.0pt on input line 216.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 213.
+(Font)              scaled to size 8.0pt on input line 216.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 213.
+(Font)              scaled to size 6.0pt on input line 216.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 8.0pt on input line 213.
+(Font)              scaled to size 8.0pt on input line 216.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 6.0pt on input line 213.
+(Font)              scaled to size 6.0pt on input line 216.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 8.0pt on input line 213.
+(Font)              scaled to size 8.0pt on input line 216.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.0pt on input line 213.
+(Font)              scaled to size 6.0pt on input line 216.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 8.0pt on input line 213.
+(Font)              scaled to size 8.0pt on input line 216.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.0pt on input line 213.
+(Font)              scaled to size 6.0pt on input line 216.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 8.0pt on input line 213.
+(Font)              scaled to size 8.0pt on input line 216.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.0pt on input line 213.
+(Font)              scaled to size 6.0pt on input line 216.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 8.0pt on input line 213.
+(Font)              scaled to size 8.0pt on input line 216.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.0pt on input line 213.
+(Font)              scaled to size 6.0pt on input line 216.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 8.0pt on input line 213.
+(Font)              scaled to size 8.0pt on input line 216.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.0pt on input line 213.
+(Font)              scaled to size 6.0pt on input line 216.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 8.0pt on input line 213.
+(Font)              scaled to size 8.0pt on input line 216.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.0pt on input line 213.
+(Font)              scaled to size 6.0pt on input line 216.
 
-Overfull \hbox (8.87605pt too wide) in paragraph at lines 213--213
+Overfull \hbox (8.87605pt too wide) in paragraph at lines 216--216
 \T1/LinuxLibertineT-TLF/m/n/8 (-20) Ratchaphon Sam-phut-thanont, Chayanon Sawat
 -deenarunat, and Kur-tis Heimerl.
  []
@@ -1498,37 +1498,37 @@ Overfull \hbox (8.87605pt too wide) in paragraph at lines 213--213
 
 
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 224.
+(Font)              scaled to size 9.0pt on input line 227.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.6pt on input line 224.
+(Font)              scaled to size 6.6pt on input line 227.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 9.0pt on input line 224.
+(Font)              scaled to size 9.0pt on input line 227.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 6.6pt on input line 224.
+(Font)              scaled to size 6.6pt on input line 227.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 9.0pt on input line 224.
+(Font)              scaled to size 9.0pt on input line 227.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.6pt on input line 224.
+(Font)              scaled to size 6.6pt on input line 227.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 9.0pt on input line 224.
+(Font)              scaled to size 9.0pt on input line 227.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 224.
+(Font)              scaled to size 6.6pt on input line 227.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 9.0pt on input line 224.
+(Font)              scaled to size 9.0pt on input line 227.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.6pt on input line 224.
+(Font)              scaled to size 6.6pt on input line 227.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 9.0pt on input line 224.
+(Font)              scaled to size 9.0pt on input line 227.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.6pt on input line 224.
+(Font)              scaled to size 6.6pt on input line 227.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 9.0pt on input line 224.
+(Font)              scaled to size 9.0pt on input line 227.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.6pt on input line 224.
+(Font)              scaled to size 6.6pt on input line 227.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 9.0pt on input line 224.
+(Font)              scaled to size 9.0pt on input line 227.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.6pt on input line 224.
+(Font)              scaled to size 6.6pt on input line 227.
 
 Underfull \vbox (badness 1708) has occurred while \output is active []
 
@@ -1542,7 +1542,7 @@ texdir/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}
 /texlive/texdir/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/opt/texl
 ive/texdir/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/opt/texlive/t
 exdir/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}]
-Underfull \hbox (badness 1490) in paragraph at lines 328--328
+Underfull \hbox (badness 1490) in paragraph at lines 332--332
 \T1/LinuxLibertineT-TLF/b/n/9 (+20) Legacy: station-based) and self-estimated d
 aily av-er-age
  []
@@ -1550,139 +1550,136 @@ aily av-er-age
 
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 360.
+(Font)              scaled to size 9.0pt on input line 365.
 
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 399.
+(Font)              scaled to size 9.0pt on input line 404.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 399.
+(Font)              scaled to size 7.0pt on input line 404.
 [2.2]
-<figures/daily-pollution-per-rider.pdf, id=184, 848.16875pt x 485.815pt>
+<figures/daily-pollution-per-rider.pdf, id=185, 848.16875pt x 485.815pt>
 File: figures/daily-pollution-per-rider.pdf Graphic file (type pdf)
 <use figures/daily-pollution-per-rider.pdf>
 Package pdftex.def Info: figures/daily-pollution-per-rider.pdf  used on input l
-ine 442.
+ine 447.
 (pdftex.def)             Requested size: 506.295pt x 289.99384pt.
 
 
-<figures/average-hourly-pollution.pdf, id=190, 1140.26pt x 381.425pt>
+<figures/average-hourly-pollution.pdf, id=191, 1140.26pt x 381.425pt>
 File: figures/average-hourly-pollution.pdf Graphic file (type pdf)
 <use figures/average-hourly-pollution.pdf>
 Package pdftex.def Info: figures/average-hourly-pollution.pdf  used on input li
-ne 466.
+ne 471.
 (pdftex.def)             Requested size: 506.295pt x 169.35818pt.
-<figures/map/BKK1_PM25.png, id=192, 337.5009pt x 306.4248pt>
+<figures/map/BKK1_PM25.png, id=193, 337.5009pt x 306.4248pt>
 File: figures/map/BKK1_PM25.png Graphic file (type png)
 <use figures/map/BKK1_PM25.png>
-Package pdftex.def Info: figures/map/BKK1_PM25.png  used on input line 486.
+Package pdftex.def Info: figures/map/BKK1_PM25.png  used on input line 491.
 (pdftex.def)             Requested size: 124.04366pt x 112.61794pt.
-<figures/map/BKK1_time.png, id=194, 337.5009pt x 302.0886pt>
+<figures/map/BKK1_time.png, id=195, 337.5009pt x 302.0886pt>
 File: figures/map/BKK1_time.png Graphic file (type png)
 <use figures/map/BKK1_time.png>
-Package pdftex.def Info: figures/map/BKK1_time.png  used on input line 486.
+Package pdftex.def Info: figures/map/BKK1_time.png  used on input line 491.
 (pdftex.def)             Requested size: 124.04366pt x 111.02428pt.
-<figures/map/BKK2_PM25.png, id=195, 337.5009pt x 306.4248pt>
+<figures/map/BKK2_PM25.png, id=196, 337.5009pt x 306.4248pt>
 File: figures/map/BKK2_PM25.png Graphic file (type png)
 <use figures/map/BKK2_PM25.png>
-Package pdftex.def Info: figures/map/BKK2_PM25.png  used on input line 487.
+Package pdftex.def Info: figures/map/BKK2_PM25.png  used on input line 492.
 (pdftex.def)             Requested size: 124.04366pt x 112.61794pt.
-<figures/map/BKK2_time.png, id=196, 337.5009pt x 302.0886pt>
+<figures/map/BKK2_time.png, id=197, 337.5009pt x 302.0886pt>
 File: figures/map/BKK2_time.png Graphic file (type png)
 <use figures/map/BKK2_time.png>
-Package pdftex.def Info: figures/map/BKK2_time.png  used on input line 487.
+Package pdftex.def Info: figures/map/BKK2_time.png  used on input line 492.
 (pdftex.def)             Requested size: 124.04366pt x 111.02428pt.
-<figures/map/BKK3_PM25.png, id=197, 337.5009pt x 258.0039pt>
+<figures/map/BKK3_PM25.png, id=198, 337.5009pt x 258.0039pt>
 File: figures/map/BKK3_PM25.png Graphic file (type png)
 <use figures/map/BKK3_PM25.png>
-Package pdftex.def Info: figures/map/BKK3_PM25.png  used on input line 488.
+Package pdftex.def Info: figures/map/BKK3_PM25.png  used on input line 493.
 (pdftex.def)             Requested size: 124.04366pt x 94.82217pt.
-<figures/map/BKK3_time.png, id=198, 337.5009pt x 251.4996pt>
+<figures/map/BKK3_time.png, id=199, 337.5009pt x 251.4996pt>
 File: figures/map/BKK3_time.png Graphic file (type png)
 <use figures/map/BKK3_time.png>
-Package pdftex.def Info: figures/map/BKK3_time.png  used on input line 488.
+Package pdftex.def Info: figures/map/BKK3_time.png  used on input line 493.
 (pdftex.def)             Requested size: 124.04366pt x 92.4317pt.
-<figures/map/BKK4_PM25.png, id=199, 337.5009pt x 306.4248pt>
+<figures/map/BKK4_PM25.png, id=200, 337.5009pt x 306.4248pt>
 File: figures/map/BKK4_PM25.png Graphic file (type png)
 <use figures/map/BKK4_PM25.png>
-Package pdftex.def Info: figures/map/BKK4_PM25.png  used on input line 489.
+Package pdftex.def Info: figures/map/BKK4_PM25.png  used on input line 494.
 (pdftex.def)             Requested size: 124.04366pt x 112.61794pt.
-<figures/map/BKK4_time.png, id=200, 337.5009pt x 302.0886pt>
+<figures/map/BKK4_time.png, id=201, 337.5009pt x 302.0886pt>
 File: figures/map/BKK4_time.png Graphic file (type png)
 <use figures/map/BKK4_time.png>
-Package pdftex.def Info: figures/map/BKK4_time.png  used on input line 489.
+Package pdftex.def Info: figures/map/BKK4_time.png  used on input line 494.
 (pdftex.def)             Requested size: 124.04366pt x 111.02428pt.
-<figures/map/BKK5_PM25.png, id=201, 337.5009pt x 272.4579pt>
+<figures/map/BKK5_PM25.png, id=202, 337.5009pt x 272.4579pt>
 File: figures/map/BKK5_PM25.png Graphic file (type png)
 <use figures/map/BKK5_PM25.png>
-Package pdftex.def Info: figures/map/BKK5_PM25.png  used on input line 490.
+Package pdftex.def Info: figures/map/BKK5_PM25.png  used on input line 495.
 (pdftex.def)             Requested size: 124.04366pt x 100.13434pt.
-<figures/map/BKK5_time.png, id=202, 337.5009pt x 268.1217pt>
+<figures/map/BKK5_time.png, id=203, 337.5009pt x 268.1217pt>
 File: figures/map/BKK5_time.png Graphic file (type png)
 <use figures/map/BKK5_time.png>
-Package pdftex.def Info: figures/map/BKK5_time.png  used on input line 490.
+Package pdftex.def Info: figures/map/BKK5_time.png  used on input line 495.
 (pdftex.def)             Requested size: 124.04366pt x 98.5407pt.
-<figures/map/CMI1_PM25.png, id=203, 337.5009pt x 247.8861pt>
+<figures/map/CMI1_PM25.png, id=204, 337.5009pt x 247.8861pt>
 File: figures/map/CMI1_PM25.png Graphic file (type png)
 <use figures/map/CMI1_PM25.png>
-Package pdftex.def Info: figures/map/CMI1_PM25.png  used on input line 494.
+Package pdftex.def Info: figures/map/CMI1_PM25.png  used on input line 499.
 (pdftex.def)             Requested size: 124.04366pt x 91.10365pt.
-<figures/map/CMI1_time.png, id=204, 346.896pt x 247.8861pt>
+<figures/map/CMI1_time.png, id=205, 346.896pt x 247.8861pt>
 File: figures/map/CMI1_time.png Graphic file (type png)
 <use figures/map/CMI1_time.png>
-Package pdftex.def Info: figures/map/CMI1_time.png  used on input line 494.
+Package pdftex.def Info: figures/map/CMI1_time.png  used on input line 499.
 (pdftex.def)             Requested size: 124.04366pt x 88.63751pt.
-<figures/map/CMI2_PM25.png, id=205, 337.5009pt x 300.6432pt>
+<figures/map/CMI2_PM25.png, id=206, 337.5009pt x 300.6432pt>
 File: figures/map/CMI2_PM25.png Graphic file (type png)
 <use figures/map/CMI2_PM25.png>
-Package pdftex.def Info: figures/map/CMI2_PM25.png  used on input line 495.
+Package pdftex.def Info: figures/map/CMI2_PM25.png  used on input line 500.
 (pdftex.def)             Requested size: 124.04366pt x 110.49307pt.
-<figures/map/CMI2_time.png, id=206, 346.896pt x 304.9794pt>
+<figures/map/CMI2_time.png, id=207, 346.896pt x 304.9794pt>
 File: figures/map/CMI2_time.png Graphic file (type png)
 <use figures/map/CMI2_time.png>
-Package pdftex.def Info: figures/map/CMI2_time.png  used on input line 495.
+Package pdftex.def Info: figures/map/CMI2_time.png  used on input line 500.
 (pdftex.def)             Requested size: 124.04366pt x 109.05257pt.
-<figures/map/CMI3_PM25.png, id=207, 337.5009pt x 255.8358pt>
+<figures/map/CMI3_PM25.png, id=208, 337.5009pt x 255.8358pt>
 File: figures/map/CMI3_PM25.png Graphic file (type png)
 <use figures/map/CMI3_PM25.png>
-Package pdftex.def Info: figures/map/CMI3_PM25.png  used on input line 496.
+Package pdftex.def Info: figures/map/CMI3_PM25.png  used on input line 501.
 (pdftex.def)             Requested size: 124.04366pt x 94.02536pt.
-<figures/map/CMI3_time.png, id=208, 346.896pt x 255.8358pt>
+<figures/map/CMI3_time.png, id=209, 346.896pt x 255.8358pt>
 File: figures/map/CMI3_time.png Graphic file (type png)
 <use figures/map/CMI3_time.png>
-Package pdftex.def Info: figures/map/CMI3_time.png  used on input line 496.
+Package pdftex.def Info: figures/map/CMI3_time.png  used on input line 501.
 (pdftex.def)             Requested size: 124.04366pt x 91.48012pt.
-<figures/map/CMI4_PM25.png, id=209, 337.5009pt x 269.5671pt>
+<figures/map/CMI4_PM25.png, id=210, 337.5009pt x 269.5671pt>
 File: figures/map/CMI4_PM25.png Graphic file (type png)
 <use figures/map/CMI4_PM25.png>
-Package pdftex.def Info: figures/map/CMI4_PM25.png  used on input line 497.
+Package pdftex.def Info: figures/map/CMI4_PM25.png  used on input line 502.
 (pdftex.def)             Requested size: 124.04366pt x 99.07191pt.
-<figures/map/CMI4_time.png, id=210, 346.896pt x 272.4579pt>
+<figures/map/CMI4_time.png, id=211, 346.896pt x 272.4579pt>
 File: figures/map/CMI4_time.png Graphic file (type png)
 <use figures/map/CMI4_time.png>
-Package pdftex.def Info: figures/map/CMI4_time.png  used on input line 497.
+Package pdftex.def Info: figures/map/CMI4_time.png  used on input line 502.
 (pdftex.def)             Requested size: 124.04366pt x 97.42374pt.
-<figures/map/CMI5_PM25.png, id=211, 337.5009pt x 284.7438pt>
+<figures/map/CMI5_PM25.png, id=212, 337.5009pt x 284.7438pt>
 File: figures/map/CMI5_PM25.png Graphic file (type png)
 <use figures/map/CMI5_PM25.png>
-Package pdftex.def Info: figures/map/CMI5_PM25.png  used on input line 498.
+Package pdftex.def Info: figures/map/CMI5_PM25.png  used on input line 503.
 (pdftex.def)             Requested size: 124.04366pt x 104.64969pt.
-<figures/map/CMI5_time.png, id=212, 346.896pt x 288.3573pt>
+<figures/map/CMI5_time.png, id=213, 346.896pt x 288.3573pt>
 File: figures/map/CMI5_time.png Graphic file (type png)
 <use figures/map/CMI5_time.png>
-Package pdftex.def Info: figures/map/CMI5_time.png  used on input line 498.
+Package pdftex.def Info: figures/map/CMI5_time.png  used on input line 503.
 (pdftex.def)             Requested size: 124.04366pt x 103.10895pt.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 510.
+(Font)              scaled to size 9.0pt on input line 515.
 
 
 [3.3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1700,30 +1697,29 @@ g> <./figures/map/CMI2_time.png> <./figures/map/CMI3_PM25.png> <./figures/map/C
 MI3_time.png> <./figures/map/CMI4_PM25.png> <./figures/map/CMI4_time.png> <./fi
 gures/map/CMI5_PM25.png> <./figures/map/CMI5_time.png>]
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 551.
-<figures/work-hours-vs-aqi-per-rider-regression.pdf, id=425, 1133.23375pt x 528
+(Font)              scaled to size 9.0pt on input line 556.
+<figures/work-hours-vs-aqi-per-rider-regression.pdf, id=426, 1133.23375pt x 528
 .97626pt>
 File: figures/work-hours-vs-aqi-per-rider-regression.pdf Graphic file (type pdf
 )
 <use figures/work-hours-vs-aqi-per-rider-regression.pdf>
 Package pdftex.def Info: figures/work-hours-vs-aqi-per-rider-regression.pdf  us
-ed on input line 587.
+ed on input line 593.
 (pdftex.def)             Requested size: 506.295pt x 236.32594pt.
 
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
-(Font)              scaled to size 9.0pt on input line 603.
+(Font)              scaled to size 9.0pt on input line 609.
 
 
 [6.6{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc}]
 (./diff.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
 LaTeX Info: Redefining \tempurl on input line 54.
 LaTeX Info: Redefining \tempurl on input line 67.
-
-Underfull \vbox (badness 2478) has occurred while \output is active []
-
-
-
 LaTeX Info: Redefining \tempurl on input line 100.
 LaTeX Info: Redefining \tempurl on input line 164.
 
@@ -1733,6 +1729,12 @@ r-cy-cle? De-pends on where
  []
 
 LaTeX Info: Redefining \tempurl on input line 213.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[7.7 <./figures/work-hours-vs-aqi-per-rider-regression.pdf>]
 LaTeX Info: Redefining \tempurl on input line 229.
 
 Underfull \hbox (badness 5893) in paragraph at lines 236--242
@@ -1746,12 +1748,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 236--242
  room / fact -[] sheets / detail / ambient -[] (outdoor) -[]
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[7.7 <./figures/work-hours-vs-aqi-per-rider-regression.pdf>]
 LaTeX Info: Redefining \tempurl on input line 251.
 )
 
@@ -1783,13 +1779,13 @@ Package rerunfilecheck Info: File `diff.out' has not changed.
 (rerunfilecheck)             Checksum: 1324EAF209813C97495DD49A3610E53A;3089.
  ) 
 Here is how much of TeX's memory you used:
- 38511 strings out of 473190
- 744854 string characters out of 5717891
- 1222607 words of memory out of 5000000
- 60433 multiletter control sequences out of 15000+600000
+ 38512 strings out of 473190
+ 744873 string characters out of 5717891
+ 1225771 words of memory out of 5000000
+ 60434 multiletter control sequences out of 15000+600000
  729473 words of font info for 403 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 98i,12n,131p,1001b,994s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,12n,131p,1001b,988s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb>
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/newtx/LibertineMathMI5.pfb><
 /opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></
@@ -1799,11 +1795,12 @@ opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></
 opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb><
 /opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb
 ></opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pf
+b></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy6.pf
 b></opt/texlive/texdir/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on diff.pdf (8 pages, 2582373 bytes).
+Output written on diff.pdf (8 pages, 2586730 bytes).
 PDF statistics:
- 3864 PDF objects out of 4296 (max. 8388607)
- 2026 compressed objects within 21 object streams
+ 3869 PDF objects out of 4296 (max. 8388607)
+ 2029 compressed objects within 21 object streams
  70 named destinations out of 1000 (max. 500000)
  94632 words of extra memory for PDF output out of 106986 (max. 10000000)
 
