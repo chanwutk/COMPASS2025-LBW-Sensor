@@ -24,6 +24,7 @@ jobs:
       with:
         pre_compile: python diff.py
         root_file: compass2025.tex
+        args: -f
         latexmk_shell_escape: true
     
     - run: |
