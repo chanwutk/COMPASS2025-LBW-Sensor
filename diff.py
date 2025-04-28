@@ -15,4 +15,4 @@ for root, _, files in os.walk('.'):
                 print(os.path.join(root, file))
                 print(os.path.join('./_original', root[2:], file))
 
-                os.system(f'latexdiff {current} {original} > {current}')
+                os.system(f'latexdiff {original} {current} > {current}')
