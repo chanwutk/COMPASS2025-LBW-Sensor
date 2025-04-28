@@ -28,11 +28,11 @@ jobs:
     
     - run: |
         mkdir build
-        cp *.pdf build/
+        cp diff.pdf build/
 
     - name: Package Diffed LaTeX
       uses: JamesIves/github-pages-deploy-action@v4
       with:
-        folder: .
+        folder: build
         single-commit: false
         branch: diff
