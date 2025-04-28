@@ -15,13 +15,15 @@ jobs:
       with:
         submodules: recursive
 
-    - run: echo "\$pdflatex = \"latexdiff _original/compass2025.tex compass2025.tex > main-d.tex; pdflatex %O  main-d\"" > latexmkrc
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.13' 
 
     - name: Build LaTeX
       uses: xu-cheng/latex-action@v3
       with:
-        pre_compile: latexdiff _original/compass2025.tex compass2025.tex > main-d.tex
-        root_file: main-d.tex
+        pre_compile: python diff.py
+        root_file: compass2025.tex
         latexmk_shell_escape: true
     
     - run: |
