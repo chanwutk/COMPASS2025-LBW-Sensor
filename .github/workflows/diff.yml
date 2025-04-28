@@ -22,9 +22,8 @@ jobs:
     - name: Build LaTeX
       uses: xu-cheng/latex-action@v3
       with:
-        pre_compile: python diff.py
-        root_file: compass2025.tex
-        args: -f
+        pre_compile: latexpand compass2025.txt > new.tex; latexpand _original/compass2025.txt > old.tex; latexdiff old.tex new.tex > diff.tex
+        root_file: diff.tex
         latexmk_shell_escape: true
     
     - run: |
