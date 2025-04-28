@@ -18,13 +18,11 @@ jobs:
     - name: Build LaTeX
       uses: xu-cheng/latex-action@v3
       with:
-        working_directory: build
         root_file: main.tex
         latexmk_shell_escape: true
 
     - name: Package Diffed LaTeX
       uses: JamesIves/github-pages-deploy-action@v4
       with:
-        folder: build
         single-commit: false
         branch: diff
