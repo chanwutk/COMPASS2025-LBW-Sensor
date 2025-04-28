@@ -1,0 +1,34 @@
+name: Diff Changes
+
+on:
+  push:
+    branches: [ arxiv-raw ]
+
+permissions:
+  contents: write
+
+jobs:
+  diff_latex:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Set up Git repository
+      uses: actions/checkout@v4
+
+    - run:
+        git clone --depth=1 --branch compass-2025-submission git@github.com:chanwutk/COMPASS2025-LBW-Sensor.git _original
+        echo "\$pdflatex = \"latexdiff compass2025.tex _original/compass2025.tex > compass2025-d.tex; pdflatex %O  compass2025-d\"" > latexmkrc
+
+    - name: Build LaTeX
+      uses: xu-cheng/latex-action@v3
+      with:
+        working_directory: build
+        root_file: main.tex
+        latexmk_shell_escape: true
+
+    - name: Package Diffed LaTeX
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: build
+        single-commit: false
+        branch: diff
