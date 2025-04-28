@@ -23,9 +23,14 @@ jobs:
         pre_compile: latexdiff _original/compass2025.tex compass2025.tex > main-d.tex
         root_file: main-d.tex
         latexmk_shell_escape: true
+    
+    - run: |
+        mkdir build
+        cp *.pdf build/
 
     - name: Package Diffed LaTeX
       uses: JamesIves/github-pages-deploy-action@v4
       with:
+        folder: build
         single-commit: false
         branch: diff
