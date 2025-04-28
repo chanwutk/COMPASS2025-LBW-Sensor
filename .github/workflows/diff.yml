@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v4
 
     - run: |
-        cd .. && cp -r COMPASS2025-LBW-Sensor COMPASS2025-LBW-Sensor-Original && mv COMPASS2025-LBW-Sensor-Original COMPASS2025-LBW-Sensor/_original
+        cd .. && cp -r COMPASS2025-LBW-Sensor _original && mv _original COMPASS2025-LBW-Sensor
         cd _original && git checkout compass-2025-submission
 
     - run: echo "\$pdflatex = \"latexdiff main.tex main2.tex > main-d.tex; pdflatex %O  main-d\"" > test
