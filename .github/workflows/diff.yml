@@ -1,8 +1,6 @@
 name: Diff Changes
 
-on:
-  push:
-    branches: [ arxiv-raw ]
+on: [push]
 
 permissions:
   contents: write
