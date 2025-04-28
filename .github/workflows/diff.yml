@@ -13,7 +13,7 @@ jobs:
     - name: Set up Git repository
       uses: actions/checkout@v4
 
-    - run: echo "\$pdflatex = \"latexdiff main.tex main2.tex > main-d.tex; pdflatex %O  main-d\"" > latexmkrc
+    - run: echo "\$pdflatex = \"latexdiff _original/compass2025.tex compass2025.tex > main-d.tex; pdflatex %O  main-d\"" > latexmkrc
 
     - name: Build LaTeX
       uses: xu-cheng/latex-action@v3
