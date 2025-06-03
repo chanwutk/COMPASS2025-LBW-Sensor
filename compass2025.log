@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.1)  3 JUN 2025 05:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.1)  3 JUN 2025 10:54
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1532,150 +1532,145 @@ texdir/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}
 ive/texdir/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/opt/texlive/t
 exdir/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc} </opt/texlive/texdi
 r/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-88x31.pdf>])
-(./sections/2-relatedwork.tex) (./sections/3-methods.tex
+(./sections/2-relatedwork.tex
 
-
+) (./sections/3-methods.tex
 Underfull \hbox (badness 1490) in paragraph at lines 15--15
 \T1/LinuxLibertineT-TLF/b/n/9 (+20) Legacy: station-based) and self-estimated d
 aily av-er-age
  []
 
 
-Underfull \vbox (badness 1565) has occurred while \output is active []
-
-
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 65.
+(Font)              scaled to size 9.0pt on input line 42.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 65.
+(Font)              scaled to size 7.0pt on input line 42.
 [2.2]) (./sections/4-results.tex (./sections/4-1-overview.tex
 
 ) (./sections/4-2-systemic.tex
-<figures/daily-pollution-per-rider.pdf, id=196, 848.16875pt x 485.815pt>
+<figures/daily-pollution-per-rider.pdf, id=200, 848.16875pt x 485.815pt>
 File: figures/daily-pollution-per-rider.pdf Graphic file (type pdf)
 <use figures/daily-pollution-per-rider.pdf>
 Package pdftex.def Info: figures/daily-pollution-per-rider.pdf  used on input l
 ine 7.
 (pdftex.def)             Requested size: 506.295pt x 289.99384pt.
-<figures/average-hourly-pollution.pdf, id=202, 1140.26pt x 381.425pt>
+<figures/average-hourly-pollution.pdf, id=206, 1140.26pt x 381.425pt>
 File: figures/average-hourly-pollution.pdf Graphic file (type pdf)
 <use figures/average-hourly-pollution.pdf>
 Package pdftex.def Info: figures/average-hourly-pollution.pdf  used on input li
 ne 29.
 (pdftex.def)             Requested size: 506.295pt x 169.35818pt.
-<figures/map/BKK1_PM25.png, id=204, 337.5009pt x 306.4248pt>
+
+
+[3.3]
+<figures/map/BKK1_PM25.png, id=232, 337.5009pt x 306.4248pt>
 File: figures/map/BKK1_PM25.png Graphic file (type png)
 <use figures/map/BKK1_PM25.png>
 Package pdftex.def Info: figures/map/BKK1_PM25.png  used on input line 48.
 (pdftex.def)             Requested size: 124.04366pt x 112.61794pt.
-<figures/map/BKK1_time.png, id=206, 337.5009pt x 302.0886pt>
+<figures/map/BKK1_time.png, id=234, 337.5009pt x 302.0886pt>
 File: figures/map/BKK1_time.png Graphic file (type png)
 <use figures/map/BKK1_time.png>
 Package pdftex.def Info: figures/map/BKK1_time.png  used on input line 49.
 (pdftex.def)             Requested size: 124.04366pt x 111.02428pt.
-<figures/map/BKK2_PM25.png, id=207, 337.5009pt x 306.4248pt>
+<figures/map/BKK2_PM25.png, id=235, 337.5009pt x 306.4248pt>
 File: figures/map/BKK2_PM25.png Graphic file (type png)
 <use figures/map/BKK2_PM25.png>
 Package pdftex.def Info: figures/map/BKK2_PM25.png  used on input line 50.
 (pdftex.def)             Requested size: 124.04366pt x 112.61794pt.
-<figures/map/BKK2_time.png, id=208, 337.5009pt x 302.0886pt>
+<figures/map/BKK2_time.png, id=236, 337.5009pt x 302.0886pt>
 File: figures/map/BKK2_time.png Graphic file (type png)
 <use figures/map/BKK2_time.png>
 Package pdftex.def Info: figures/map/BKK2_time.png  used on input line 51.
 (pdftex.def)             Requested size: 124.04366pt x 111.02428pt.
-<figures/map/BKK3_PM25.png, id=209, 337.5009pt x 258.0039pt>
+<figures/map/BKK3_PM25.png, id=237, 337.5009pt x 258.0039pt>
 File: figures/map/BKK3_PM25.png Graphic file (type png)
 <use figures/map/BKK3_PM25.png>
 Package pdftex.def Info: figures/map/BKK3_PM25.png  used on input line 52.
 (pdftex.def)             Requested size: 124.04366pt x 94.82217pt.
-<figures/map/BKK3_time.png, id=210, 337.5009pt x 251.4996pt>
+<figures/map/BKK3_time.png, id=238, 337.5009pt x 251.4996pt>
 File: figures/map/BKK3_time.png Graphic file (type png)
 <use figures/map/BKK3_time.png>
 Package pdftex.def Info: figures/map/BKK3_time.png  used on input line 53.
 (pdftex.def)             Requested size: 124.04366pt x 92.4317pt.
-<figures/map/BKK4_PM25.png, id=211, 337.5009pt x 306.4248pt>
+<figures/map/BKK4_PM25.png, id=239, 337.5009pt x 306.4248pt>
 File: figures/map/BKK4_PM25.png Graphic file (type png)
 <use figures/map/BKK4_PM25.png>
 Package pdftex.def Info: figures/map/BKK4_PM25.png  used on input line 54.
 (pdftex.def)             Requested size: 124.04366pt x 112.61794pt.
-<figures/map/BKK4_time.png, id=212, 337.5009pt x 302.0886pt>
+<figures/map/BKK4_time.png, id=240, 337.5009pt x 302.0886pt>
 File: figures/map/BKK4_time.png Graphic file (type png)
 <use figures/map/BKK4_time.png>
 Package pdftex.def Info: figures/map/BKK4_time.png  used on input line 55.
 (pdftex.def)             Requested size: 124.04366pt x 111.02428pt.
-<figures/map/BKK5_PM25.png, id=213, 337.5009pt x 272.4579pt>
+<figures/map/BKK5_PM25.png, id=241, 337.5009pt x 272.4579pt>
 File: figures/map/BKK5_PM25.png Graphic file (type png)
 <use figures/map/BKK5_PM25.png>
 Package pdftex.def Info: figures/map/BKK5_PM25.png  used on input line 56.
 (pdftex.def)             Requested size: 124.04366pt x 100.13434pt.
-<figures/map/BKK5_time.png, id=214, 337.5009pt x 268.1217pt>
+<figures/map/BKK5_time.png, id=242, 337.5009pt x 268.1217pt>
 File: figures/map/BKK5_time.png Graphic file (type png)
 <use figures/map/BKK5_time.png>
 Package pdftex.def Info: figures/map/BKK5_time.png  used on input line 57.
 (pdftex.def)             Requested size: 124.04366pt x 98.5407pt.
-<figures/map/CMI1_PM25.png, id=215, 337.5009pt x 247.8861pt>
+<figures/map/CMI1_PM25.png, id=243, 337.5009pt x 247.8861pt>
 File: figures/map/CMI1_PM25.png Graphic file (type png)
 <use figures/map/CMI1_PM25.png>
 Package pdftex.def Info: figures/map/CMI1_PM25.png  used on input line 63.
 (pdftex.def)             Requested size: 124.04366pt x 91.10365pt.
-<figures/map/CMI1_time.png, id=216, 346.896pt x 247.8861pt>
+<figures/map/CMI1_time.png, id=244, 346.896pt x 247.8861pt>
 File: figures/map/CMI1_time.png Graphic file (type png)
 <use figures/map/CMI1_time.png>
 Package pdftex.def Info: figures/map/CMI1_time.png  used on input line 64.
 (pdftex.def)             Requested size: 124.04366pt x 88.63751pt.
-<figures/map/CMI2_PM25.png, id=217, 337.5009pt x 300.6432pt>
+<figures/map/CMI2_PM25.png, id=245, 337.5009pt x 300.6432pt>
 File: figures/map/CMI2_PM25.png Graphic file (type png)
 <use figures/map/CMI2_PM25.png>
 Package pdftex.def Info: figures/map/CMI2_PM25.png  used on input line 65.
 (pdftex.def)             Requested size: 124.04366pt x 110.49307pt.
-<figures/map/CMI2_time.png, id=218, 346.896pt x 304.9794pt>
+<figures/map/CMI2_time.png, id=246, 346.896pt x 304.9794pt>
 File: figures/map/CMI2_time.png Graphic file (type png)
 <use figures/map/CMI2_time.png>
 Package pdftex.def Info: figures/map/CMI2_time.png  used on input line 66.
 (pdftex.def)             Requested size: 124.04366pt x 109.05257pt.
-<figures/map/CMI3_PM25.png, id=219, 337.5009pt x 255.8358pt>
+<figures/map/CMI3_PM25.png, id=247, 337.5009pt x 255.8358pt>
 File: figures/map/CMI3_PM25.png Graphic file (type png)
 <use figures/map/CMI3_PM25.png>
 Package pdftex.def Info: figures/map/CMI3_PM25.png  used on input line 67.
 (pdftex.def)             Requested size: 124.04366pt x 94.02536pt.
-<figures/map/CMI3_time.png, id=220, 346.896pt x 255.8358pt>
+<figures/map/CMI3_time.png, id=248, 346.896pt x 255.8358pt>
 File: figures/map/CMI3_time.png Graphic file (type png)
 <use figures/map/CMI3_time.png>
 Package pdftex.def Info: figures/map/CMI3_time.png  used on input line 68.
 (pdftex.def)             Requested size: 124.04366pt x 91.48012pt.
-<figures/map/CMI4_PM25.png, id=221, 337.5009pt x 269.5671pt>
+<figures/map/CMI4_PM25.png, id=249, 337.5009pt x 269.5671pt>
 File: figures/map/CMI4_PM25.png Graphic file (type png)
 <use figures/map/CMI4_PM25.png>
 Package pdftex.def Info: figures/map/CMI4_PM25.png  used on input line 69.
 (pdftex.def)             Requested size: 124.04366pt x 99.07191pt.
-<figures/map/CMI4_time.png, id=222, 346.896pt x 272.4579pt>
+<figures/map/CMI4_time.png, id=250, 346.896pt x 272.4579pt>
 File: figures/map/CMI4_time.png Graphic file (type png)
 <use figures/map/CMI4_time.png>
 Package pdftex.def Info: figures/map/CMI4_time.png  used on input line 70.
 (pdftex.def)             Requested size: 124.04366pt x 97.42374pt.
-<figures/map/CMI5_PM25.png, id=223, 337.5009pt x 284.7438pt>
+<figures/map/CMI5_PM25.png, id=251, 337.5009pt x 284.7438pt>
 File: figures/map/CMI5_PM25.png Graphic file (type png)
 <use figures/map/CMI5_PM25.png>
 Package pdftex.def Info: figures/map/CMI5_PM25.png  used on input line 71.
 (pdftex.def)             Requested size: 124.04366pt x 104.64969pt.
-<figures/map/CMI5_time.png, id=224, 346.896pt x 288.3573pt>
+<figures/map/CMI5_time.png, id=252, 346.896pt x 288.3573pt>
 File: figures/map/CMI5_time.png Graphic file (type png)
 <use figures/map/CMI5_time.png>
 Package pdftex.def Info: figures/map/CMI5_time.png  used on input line 72.
 (pdftex.def)             Requested size: 124.04366pt x 103.10895pt.
-) (./sections/4-3-new-response.tex
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 7.
 
-
-[3.3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-
-Underfull \vbox (badness 7030) has occurred while \output is active []
+) (./sections/4-3-new-response.tex
+Underfull \vbox (badness 1253) has occurred while \output is active []
 
 
 
@@ -1692,8 +1687,11 @@ es/map/CMI1_PM25.png> <./figures/map/CMI1_time.png> <./figures/map/CMI2_PM25.pn
 g> <./figures/map/CMI2_time.png> <./figures/map/CMI3_PM25.png> <./figures/map/C
 MI3_time.png> <./figures/map/CMI4_PM25.png> <./figures/map/CMI4_time.png> <./fi
 gures/map/CMI5_PM25.png> <./figures/map/CMI5_time.png>]
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 7.
 
-<figures/work-hours-vs-aqi-per-rider-regression.pdf, id=438, 1133.23375pt x 528
+
+<figures/work-hours-vs-aqi-per-rider-regression.pdf, id=442, 1133.23375pt x 528
 .97626pt>
 File: figures/work-hours-vs-aqi-per-rider-regression.pdf Graphic file (type pdf
 )
@@ -1706,13 +1704,13 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
 (Font)              scaled to size 9.0pt on input line 11.
 
 
-[6.6{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc}]
+[6.6]
 
+) (./sections/6-conclusion.tex
 
-) (./sections/6-conclusion.tex) (./sections/7-acknowledgement.tex
-Processing 'acks' comment.
-
-[7.7 <./figures/work-hours-vs-aqi-per-rider-regression.pdf>]
+[7.7{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc} 
+<./figures/work-hours-vs-aqi-per-rider-regression.pdf>])
+(./sections/7-acknowledgement.tex Processing 'acks' comment.
 \openout3 = `comment.cut'.
 
 
@@ -1721,31 +1719,35 @@ Comment 'acks' writing to comment.cut. Straight input of comment.cut.
 LaTeX Info: Redefining \tempurl on input line 54.
 LaTeX Info: Redefining \tempurl on input line 67.
 LaTeX Info: Redefining \tempurl on input line 100.
-LaTeX Info: Redefining \tempurl on input line 184.
 
-Underfull \hbox (badness 3872) in paragraph at lines 179--187
+
+LaTeX Info: Redefining \tempurl on input line 214.
+
+Underfull \hbox (badness 3872) in paragraph at lines 209--217
 []\T1/LinuxLibertineT-TLF/m/n/7 (+20) Jacob Poushter. 2015.  Car, bike or mo-to
 r-cy-cle? De-pends on where
  []
 
-LaTeX Info: Redefining \tempurl on input line 233.
-LaTeX Info: Redefining \tempurl on input line 249.
+LaTeX Info: Redefining \tempurl on input line 274.
+LaTeX Info: Redefining \tempurl on input line 290.
 
-Underfull \hbox (badness 5893) in paragraph at lines 256--262
+Underfull \hbox (badness 5893) in paragraph at lines 297--303
 []\T1/LinuxLibertineT-TLF/m/n/7 (+20) World Health Or-ga-ni-za-tion. 2024.  Am-
 bi-ent (out-door) air pol-lu-tion.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--262
+Underfull \hbox (badness 10000) in paragraph at lines 297--303
 [][]$\T1/LinuxLibertineT-TLF/m/n/7 (+20) https : / / www . who . int / news -[]
  room / fact -[] sheets / detail / ambient -[] (outdoor) -[]
  []
 
-LaTeX Info: Redefining \tempurl on input line 271.
+LaTeX Info: Redefining \tempurl on input line 312.
 )
 
 
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
@@ -1759,16 +1761,16 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
  ***********
 Package rerunfilecheck Info: File `compass2025.out' has not changed.
-(rerunfilecheck)             Checksum: 2C14887A19AC83EB97CB5DF432D5C18A;3210.
+(rerunfilecheck)             Checksum: C77967F1245549076E2E79A938F5FB67;3240.
  ) 
 Here is how much of TeX's memory you used:
- 38573 strings out of 469590
- 749380 string characters out of 5472431
- 1234311 words of memory out of 5000000
- 64021 multiletter control sequences out of 15000+600000
- 799270 words of font info for 420 fonts, out of 8000000 for 9000
+ 38603 strings out of 469590
+ 750066 string characters out of 5472431
+ 1230522 words of memory out of 5000000
+ 64030 multiletter control sequences out of 15000+600000
+ 800974 words of font info for 432 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 98i,12n,131p,1008b,980s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,12n,131p,1008b,976s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb>
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/newtx/LibertineMathMI5.pfb><
 /opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></
@@ -1779,10 +1781,10 @@ opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb><
 /opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb
 ></opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pf
 b></opt/texlive/texdir/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on compass2025.pdf (8 pages, 2589014 bytes).
+Output written on compass2025.pdf (8 pages, 2592954 bytes).
 PDF statistics:
- 3882 PDF objects out of 4296 (max. 8388607)
- 2043 compressed objects within 21 object streams
- 76 named destinations out of 1000 (max. 500000)
+ 3891 PDF objects out of 4296 (max. 8388607)
+ 2052 compressed objects within 21 object streams
+ 79 named destinations out of 1000 (max. 500000)
  94645 words of extra memory for PDF output out of 106986 (max. 10000000)
 
