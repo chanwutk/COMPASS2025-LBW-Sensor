@@ -23,7 +23,8 @@ jobs:
         ls -lah
         ls -lah _original
         ls -lah _original/sections
-        cat  _original/sections/7-acknowledgement.tex && cp _original/sections/7-acknowledgement.tex ‎sections/7-acknowledgement.tex
+        cat _original/sections/7-acknowledgement.tex
+        cat _original/sections/7-acknowledgement.tex ‎> sections/7-acknowledgement.tex
         
     - name: Build LaTeX
       uses: xu-cheng/latex-action@v3
