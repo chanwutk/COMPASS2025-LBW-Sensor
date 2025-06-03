@@ -52,12 +52,14 @@ jobs:
         root_file: diff.tex
         latexmk_shell_escape: true
     
-    - run: |
+    - name: Package
+      continue-on-error: true
+      run: |
         mkdir build
-        cp diff.pdf build/
         cp diff.tex build/
+        cp diff.pdf build/
 
-    - name: Package Diffed LaTeX
+    - name: Push Diffed LaTeX
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: build
