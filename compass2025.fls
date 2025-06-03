@@ -761,6 +761,10 @@ INPUT ./sections/7-acknowledgement.tex
 INPUT ./sections/7-acknowledgement.tex
 INPUT ./sections/7-acknowledgement.tex
 INPUT sections/7-acknowledgement.tex
+OUTPUT comment.cut
+INPUT ./comment.cut
+INPUT ./comment.cut
+INPUT comment.cut
 INPUT ./compass2025.bbl
 INPUT ./compass2025.bbl
 INPUT compass2025.bbl
