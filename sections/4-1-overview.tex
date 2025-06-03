@@ -5,19 +5,16 @@
 Over the seven-month period (November 2023 to mid-May 2024), we collected data from ten motorcycle rideshare drivers in Bangkok and Chiang Mai, covering peak and non-peak pollution seasons.
 Each driver wore a helmet-mounted low-cost PM2.5 sensor, calibrated against stationary PCD air quality towers in Chiang Mai and Bangkok.
 % \kurtis{picture?}
-% Data is uploaded in a GitHub repository \todo{add ref}.
+
 In total, we captured over 50 million data points on street-level pollution in approximately 163.49 km$^2$ driven in Bangkok and 97.21 km$^2$ in downtown Chiang Mai.
 Drivers drive approximately 6-10 hours per day, with consistent sensor functionality powered by portable power banks.
 
-\todo{The authors could have elaborated on what was contained in the 50 million data points, what data work was conducted to ensure the data was good enough}
-\mick{What did we do to clean the data?}
+\paragraph{Sensor Data Cleaning and Validating}
+Prior the deployment, each PM2.5 sensor was field-tested by co-locating it with a reference air quality station operated by Thailand’s Pollution Control Department (PCD) in Bangkok.
+Over five days, three low-cost sensors showed strong alignment with hourly PM2.5 readings from the PCD station, with Pearson correlation coefficients consistently above 0.81, indicating high reliability. 
 
-
-\paragraph{Sensor Data Cleaning}
-To ensure accuracy, each sensor was field-tested by co-locating it with a reference air quality station operated by Thailand’s Pollution Control Department (PCD) in Bangkok.
-Over five days, three low-cost sensors showed strong alignment with hourly PM2.5 readings from the PCD station, with Pearson correlation coefficients consistently above 0.81, indicating high reliability.
-
-
+After collecting the data, we removed the PM2.5 readings above the detection limit (500 $\mu g/m^3$). 
+Some drivers also received replacement sensors due to hardware issues; we reconciled device changes by mapping data streams to the correct participant timelines. 
 
 % \mick{should also include the interview results as data collected too.-added}
 % \mick{we have XX interview records-added}
