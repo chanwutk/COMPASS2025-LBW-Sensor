@@ -1,0 +1,26 @@
+\newtcolorbox{quack}{
+  breakable,
+  enhanced,
+  frame hidden,
+  interior hidden,
+  size=minimal,
+  left skip=-3pt,
+  borderline west={1.5pt}{-8pt}{lightgray}
+}
+
+\newenvironment{quoteb}{\begin{quote}\begin{quack}}{\end{quack}\end{quote}}
+
+\newcommand{\joe}[1]{\textcolor{cyan}{[Joe: #1]}}
+\newcommand{\mick}[1]{\textcolor{olive}{[mick: #1]}}
+\newcommand{\kurtis}[1]{\textcolor{purple}{[#1 -k]}}
+\newcommand{\firn}[1]{\textcolor{orange}{[firn: #1]}}
+\newcommand{\todo}[1]{\textcolor{red}{[TODOs: #1]}}
+\newcommand{\reread}[1]{\textcolor{blue}{[reread: #1]}}
+
+
+\newcommand{\grab}[1]{\textcolor{red}{\textsc{RideshareCompanyA}}}
+
+\renewcommand{\shortauthors}{Tieanklin et al.}
+
+
+\newcommand{\para}[1]{\paragraph{\bf\em #1}}

@@ -1,0 +1,256 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{18}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[iqr({[n.\,d.]})]%
+        {iqr_rank}
+ \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock
+\urldef\tempurl%
+\url{https://www.iqair.com/us/world-air-quality-ranking}
+\showURL{%
+\tempurl}
+
+
+\bibitem[map({[n.\,d.]})]%
+        {mapvis}
+ \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock
+\urldef\tempurl%
+\url{https://tracking.hazemon.in.th/en/interlab}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Bernsten and Guaglianone(2024)]%
+        {bernsten2024chiangmaiburn}
+\bibfield{author}{\bibinfo{person}{Zach Bernsten} {and}
+  \bibinfo{person}{Carmela Guaglianone}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{When is it safe to burn fields? in Thailand, farmers
+  can turn to a new app to check.}
+\newblock
+\urldef\tempurl%
+\url{https://grist.org/international/fired-app-system-targeted-solution-to-agricultural-burning-in-thailand/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Braun and Clarke(2006)]%
+        {braun2006using}
+\bibfield{author}{\bibinfo{person}{Virginia Braun} {and}
+  \bibinfo{person}{Victoria Clarke}.} \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{Using thematic analysis in psychology}.
+\newblock \bibinfo{journal}{\emph{Qualitative research in psychology}}
+  \bibinfo{volume}{3}, \bibinfo{number}{2} (\bibinfo{year}{2006}),
+  \bibinfo{pages}{77--101}.
+\newblock
+
+
+\bibitem[{Centers for Disease Control and Prevention}(2025)]%
+        {cdc_pm25}
+\bibfield{author}{\bibinfo{person}{{Centers for Disease Control and
+  Prevention}}.} \bibinfo{year}{Accessed 2025}\natexlab{}.
+\newblock \bibinfo{title}{Particulate Matter ({PM}) Pollution}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.cdc.gov/air-quality/pollutants/index.html\#cdc_listing_add_info-additional-information-on-ozone-particulate-matter}}.
+\newblock
+
+
+\bibitem[David and Gregori(2025)]%
+        {david2025chiangmaiburn}
+\bibfield{author}{\bibinfo{person}{Jennifer David} {and} \bibinfo{person}{Leon
+  Gregori}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{title}{Burning season in chiang mai: All you need to know}.
+\newblock
+\urldef\tempurl%
+\url{https://www.closerlives.com/blog/post/burning-season-in-chiang-mai-all-you-need-to-know}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Elfassy et~al\mbox{.}(2019)]%
+        {elfassy2019associations}
+\bibfield{author}{\bibinfo{person}{Tali Elfassy}, \bibinfo{person}{Samuel~L
+  Swift}, \bibinfo{person}{M~Maria Glymour}, \bibinfo{person}{Sebastian
+  Calonico}, \bibinfo{person}{David~R Jacobs~Jr}, \bibinfo{person}{Elizabeth~R
+  Mayeda}, \bibinfo{person}{Kiarri~N Kershaw}, \bibinfo{person}{Catarina
+  Kiefe}, {and} \bibinfo{person}{Adina Zeki Al~Hazzouri}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Associations of income volatility with incident
+  cardiovascular disease and all-cause mortality in a US cohort: 1990 to 2015}.
+\newblock \bibinfo{journal}{\emph{Circulation}} \bibinfo{volume}{139},
+  \bibinfo{number}{7} (\bibinfo{year}{2019}), \bibinfo{pages}{850--859}.
+\newblock
+
+
+\bibitem[Machado et~al\mbox{.}(2021)]%
+        {machado2021midlife}
+\bibfield{author}{\bibinfo{person}{Sara Machado}, \bibinfo{person}{Andrew
+  Sumarsono}, {and} \bibinfo{person}{Muthiah Vaduganathan}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Midlife wealth mobility and long-term
+  cardiovascular health}.
+\newblock \bibinfo{journal}{\emph{JAMA cardiology}} \bibinfo{volume}{6},
+  \bibinfo{number}{10} (\bibinfo{year}{2021}), \bibinfo{pages}{1152--1160}.
+\newblock
+
+
+\bibitem[Macqueen et~al\mbox{.}(2008)]%
+        {kathleen2008team}
+\bibfield{author}{\bibinfo{person}{Kathleen~M Macqueen},
+  \bibinfo{person}{Eleanor McLellan-Lemal}, \bibinfo{person}{Kelly Bartholow},
+  {and} \bibinfo{person}{Bobby Milstein}.} \bibinfo{year}{2008}\natexlab{}.
+\newblock \showarticletitle{Team-based codebook development: Structure,
+  process, and agreement}.
+\newblock \bibinfo{journal}{\emph{Handbook for team-based qualitative
+  research}} (\bibinfo{year}{2008}), \bibinfo{pages}{119--135}.
+\newblock
+
+
+\bibitem[Nguyen et~al\mbox{.}(2023)]%
+        {nguyen2023bangkokpollution}
+\bibfield{author}{\bibinfo{person}{Thi Phuoc~Lai Nguyen},
+  \bibinfo{person}{Winjikul Ekbordin}, {and} \bibinfo{person}{Virdis~Salvatore
+  G.P.}} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Air pollution in Bangkok: addressing unequal
+  exposure and enhancing public understanding of the risks}.
+\newblock \bibinfo{journal}{\emph{SEI brief}} (\bibinfo{date}{March}
+  \bibinfo{year}{2023}), \bibinfo{numpages}{7}~pages.
+\newblock
+\href{https://doi.org/10.51414/sei2023.12}{doi:\nolinkurl{10.51414/sei2023.12}}
+
+
+\bibitem[Poushter(2015)]%
+        {Poushter2015motorcyclestat}
+\bibfield{author}{\bibinfo{person}{Jacob Poushter}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \bibinfo{title}{Car, bike or motorcycle? Depends on where you live}.
+\newblock
+\urldef\tempurl%
+\url{https://www.pewresearch.org/short-reads/2015/04/16/car-bike-or-motorcycle-depends-on-where-you-live/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Salda{\~n}a(2021)]%
+        {saldana2021coding}
+\bibfield{author}{\bibinfo{person}{Johnny Salda{\~n}a}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{The coding manual for qualitative researchers}.
+\newblock  (\bibinfo{year}{2021}).
+\newblock
+
+
+\bibitem[Tieanklin et~al\mbox{.}(2024)]%
+        {tieanklin2024rideshare}
+\bibfield{author}{\bibinfo{person}{Nussara Tieanklin}, \bibinfo{person}{Joseph
+  Breda}, \bibinfo{person}{Tim Althoff}, {and} \bibinfo{person}{Kurtis
+  Heimerl}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{"I will just have to keep driving": A Mixed-methods
+  Investigation of Lack of Agency within the Thai Motorcycle Rideshare Driver
+  Community}.
+\newblock \bibinfo{journal}{\emph{Proc. ACM Hum.-Comput. Interact.}}
+  \bibinfo{volume}{8}, \bibinfo{number}{CSCW1}, Article
+  \bibinfo{articleno}{215} (\bibinfo{date}{April} \bibinfo{year}{2024}),
+  \bibinfo{numpages}{28}~pages.
+\newblock
+\href{https://doi.org/10.1145/3653706}{doi:\nolinkurl{10.1145/3653706}}
+
+
+\bibitem[Williams and Moser(2019)]%
+        {williams2019art}
+\bibfield{author}{\bibinfo{person}{Michael Williams} {and}
+  \bibinfo{person}{Tami Moser}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{The art of coding and thematic exploration in
+  qualitative research}.
+\newblock \bibinfo{journal}{\emph{International management review}}
+  \bibinfo{volume}{15}, \bibinfo{number}{1} (\bibinfo{year}{2019}),
+  \bibinfo{pages}{45--55}.
+\newblock
+
+
+\bibitem[Wipatayotin(2025)]%
+        {Wipatayotin_2025}
+\bibfield{author}{\bibinfo{person}{Apinya Wipatayotin}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{title}{Health Ministry to Push Work from home nationwide}.
+\newblock
+\urldef\tempurl%
+\url{https://www.bangkokpost.com/thailand/general/2944471/health-ministry-to-push-work-from-home-nationwide}
+\showURL{%
+\tempurl}
+
+
+\bibitem[{World Health Organization}(2021)]%
+        {who_aqg_2021}
+\bibfield{author}{\bibinfo{person}{{World Health Organization}}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{WHO global air quality guidelines:
+  particulate matter (PM$_{2.5}$ and PM$_{10}$), ozone, nitrogen dioxide,
+  sulfur dioxide and carbon monoxide}}}.
+\newblock \bibinfo{type}{{T}echnical {R}eport}. \bibinfo{institution}{World
+  Health Organization}.
+\newblock
+\urldef\tempurl%
+\url{https://www.who.int/publications/i/item/9789240034228}
+\showURL{%
+\tempurl}
+
+
+\bibitem[{World Health Organization}(2024)]%
+        {who_ambient_air_pollution}
+\bibfield{author}{\bibinfo{person}{{World Health Organization}}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{Ambient (outdoor) air pollution}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health}}.
+\newblock
+
+
+\bibitem[Writers(2023)]%
+        {iqair2023chiangmaiburn}
+\bibfield{author}{\bibinfo{person}{IQAir~Staff Writers}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \bibinfo{title}{Seasonal crop burning pollutes Thailand’s skies}.
+\newblock
+\urldef\tempurl%
+\url{https://www.iqair.com/us/newsroom/seasonal-crop-burning-pollutes-thailands-skies}
+\showURL{%
+\tempurl}
+
+
+\end{thebibliography}
