@@ -20,6 +20,7 @@ jobs:
         python-version: '3.13' 
 
     - run: |
+        ls -lah
         cp ./_original/‎metadata/ccs-keywords-teaser-revise.tex ./‎metadata/ccs-keywords-teaser-revise.tex
 
     - name: Build LaTeX
