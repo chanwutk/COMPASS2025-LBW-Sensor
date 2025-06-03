@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.1)  3 JUN 2025 04:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.1)  3 JUN 2025 04:20
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1763,7 +1763,7 @@ Package rerunfilecheck Info: File `compass2025.out' has not changed.
 Here is how much of TeX's memory you used:
  38531 strings out of 469590
  748225 string characters out of 5472431
- 1224359 words of memory out of 5000000
+ 1224360 words of memory out of 5000000
  64000 multiletter control sequences out of 15000+600000
  797355 words of font info for 406 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
