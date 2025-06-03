@@ -1,0 +1,54 @@
+name: Clean up comments
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  build_latex:
+    name: Clean up comments
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Set up Git repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.13"
+
+    - name: Install Latex comment cleaner
+      run: pip install "arxiv-latex-cleaner==1.0.6"
+
+    - name: Clean
+      run: |
+        arxiv_latex_cleaner \
+            --verbose \
+            --keep_bib \
+            .
+        ls -lah
+        rm -rf *
+        mkdir build
+        ls -lah
+        mv -f ../COMPASS2025-LBW-Sensor_arXiv/* build
+        ls -lah
+        ls -lah ../COMPASS2025-LBW-Sensor_arXiv
+        ls -lah build
+
+    - name: Build LaTeX
+      uses: xu-cheng/latex-action@v3
+      with:
+        working_directory: build
+        root_file: main.tex
+        latexmk_shell_escape: true
+
+    - name: Package Cleaned LaTeX
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: build
+        single-commit: false
+        branch: arxiv
