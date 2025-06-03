@@ -23,6 +23,7 @@ jobs:
         ls -lah
         ls -lah _original
         ls -lah _original/metadata
+        cat  _original/metadata/ccs-keywords-teaser-revise.tex
         cp ./_original/‎metadata/ccs-keywords-teaser-revise.tex ./‎metadata/ccs-keywords-teaser-revise.tex
 
     - name: Build LaTeX
