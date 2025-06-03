@@ -20,12 +20,6 @@ jobs:
         python-version: '3.13' 
 
     - run: |
-        ls -lah
-        ls -lah _original
-        ls -lah _original/sections
-        cat _original/sections/7-acknowledgement.tex
-        cat _original/sections/7-acknowledgement.tex
-        rm sections/7-acknowledgement.tex
         cat > sections/7-acknowledgement.tex << EOF
         %%
         %% The acknowledgments section is defined using the "acks" environment
@@ -35,22 +29,17 @@ jobs:
         % \begin{acks}
         % \end{acks}
         EOF
-    - run: |
-        cat sections/7-acknowledgement.tex
         
     - name: Build LaTeX
       uses: xu-cheng/latex-action@v3
-      continue-on-error: true
       with:
         pre_compile: cd _original && latexpand compass2025.tex > old.tex && cd .. && cp _original/metadata/ccs-keywords-teaser-revise.tex metadata/ccs-keywords-teaser-revise.tex && latexpand compass2025.tex > new.tex && latexdiff _original/old.tex new.tex > diff.tex
         root_file: diff.tex
         latexmk_shell_escape: true
     
     - name: Package
-      continue-on-error: true
       run: |
         mkdir build
-        cp diff.tex build/
         cp diff.pdf build/
 
     - name: Push Diffed LaTeX
