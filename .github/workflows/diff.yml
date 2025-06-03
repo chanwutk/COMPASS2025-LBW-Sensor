@@ -46,6 +46,7 @@ jobs:
         
     - name: Build LaTeX
       uses: xu-cheng/latex-action@v3
+      continue-on-error: true
       with:
         pre_compile: cd _original && latexpand compass2025.tex > old.tex && cd .. && cp _original/metadata/ccs-keywords-teaser-revise.tex metadata/ccs-keywords-teaser-revise.tex && latexpand compass2025.tex > new.tex && latexdiff _original/old.tex new.tex > diff.tex
         root_file: diff.tex
@@ -54,6 +55,7 @@ jobs:
     - run: |
         mkdir build
         cp diff.pdf build/
+        cp diff.tex build/
 
     - name: Package Diffed LaTeX
       uses: JamesIves/github-pages-deploy-action@v4
