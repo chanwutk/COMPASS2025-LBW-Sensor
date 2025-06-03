@@ -25,6 +25,7 @@ jobs:
         ls -lah _original/sections
         cat _original/sections/7-acknowledgement.tex
         cat _original/sections/7-acknowledgement.tex
+        rm sections/7-acknowledgement.tex
         cat > sections/7-acknowledgement.tex << EOF
         %%
         %% The acknowledgments section is defined using the "acks" environment
@@ -33,15 +34,6 @@ jobs:
         %% consistent spelling of the heading.
         % \begin{acks}
         % \end{acks}
-        
-        %  ccs concepts of mobile sensing, mixed methods, maybe applications in health? 
-        
-        % Keywords: air quality sensing, mobile sensing, empirical analysis, etc. 
-        
-        \begin{acks}
-        We thank the anonymous reviewers for their helpful feedback. 
-        This work was funded in part by the National Science Foundation (NSF) under Award No. 2025022. The findings and conclusions expressed are those of the authors and do not necessarily reflect the views of the NSF.
-        \end{acks}
         EOF
     - run: |
         cat sections/7-acknowledgement.tex
