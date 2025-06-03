@@ -35,45 +35,45 @@ Warning--no number and no volume in nguyen2023bangkokpollution
 Warning--no journal in saldana2021coding
 Warning--no number and no volume in saldana2021coding
 Warning--page numbers missing in both pages and numpages fields in saldana2021coding
-You've used 18 entries,
+You've used 19 entries,
             6056 wiz_defined-function locations,
-            1747 strings with 23845 characters,
-and the built_in function-call counts, 16687 in all, are:
-= -- 2207
-> -- 462
+            1757 strings with 24398 characters,
+and the built_in function-call counts, 18051 in all, are:
+= -- 2337
+> -- 549
 < -- 0
-+ -- 152
-- -- 174
-* -- 1085
-:= -- 1605
-add.period$ -- 80
-call.type$ -- 18
-change.case$ -- 111
-chr.to.int$ -- 18
-cite$ -- 49
-duplicate$ -- 1459
-empty$ -- 1059
-format.name$ -- 210
-if$ -- 4073
++ -- 183
+- -- 204
+* -- 1227
+:= -- 1763
+add.period$ -- 85
+call.type$ -- 19
+change.case$ -- 125
+chr.to.int$ -- 19
+cite$ -- 50
+duplicate$ -- 1563
+empty$ -- 1133
+format.name$ -- 244
+if$ -- 4371
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 31
-newline$ -- 208
-num.names$ -- 112
-pop$ -- 601
+missing$ -- 36
+newline$ -- 216
+num.names$ -- 119
+pop$ -- 650
 preamble$ -- 1
-purify$ -- 244
+purify$ -- 266
 quote$ -- 0
-skip$ -- 523
+skip$ -- 558
 stack$ -- 0
-substring$ -- 1149
-swap$ -- 111
+substring$ -- 1215
+swap$ -- 118
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 428
+type$ -- 458
 warning$ -- 23
-while$ -- 107
+while$ -- 110
 width$ -- 0
-write$ -- 384
+write$ -- 406
 (There were 23 warnings)
