@@ -43,6 +43,8 @@ jobs:
         This work was funded in part by the National Science Foundation (NSF) under Award No. 2025022. The findings and conclusions expressed are those of the authors and do not necessarily reflect the views of the NSF.
         \end{acks}
         EOF
+    - run: |
+        cat sections/7-acknowledgement.tex
         
     - name: Build LaTeX
       uses: xu-cheng/latex-action@v3
