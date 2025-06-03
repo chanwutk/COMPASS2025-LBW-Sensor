@@ -43,7 +43,7 @@ jobs:
       uses: xu-cheng/latex-action@v3
       with:
         working_directory: build
-        root_file: main.tex
+        root_file: compass2025.tex
         latexmk_shell_escape: true
 
     - name: Package Cleaned LaTeX
