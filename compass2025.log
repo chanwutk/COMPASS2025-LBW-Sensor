@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.1)  3 JUN 2025 10:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.1)  4 JUN 2025 02:55
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1707,6 +1707,9 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
 [6.6]
 
 ) (./sections/6-conclusion.tex
+Underfull \vbox (badness 2478) has occurred while \output is active []
+
+
 
 [7.7{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc} 
 <./figures/work-hours-vs-aqi-per-rider-regression.pdf>])
@@ -1766,7 +1769,7 @@ Package rerunfilecheck Info: File `compass2025.out' has not changed.
 Here is how much of TeX's memory you used:
  38603 strings out of 469590
  750066 string characters out of 5472431
- 1230522 words of memory out of 5000000
+ 1230332 words of memory out of 5000000
  64030 multiletter control sequences out of 15000+600000
  800974 words of font info for 432 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
@@ -1781,7 +1784,7 @@ opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb><
 /opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb
 ></opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pf
 b></opt/texlive/texdir/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on compass2025.pdf (8 pages, 2592954 bytes).
+Output written on compass2025.pdf (8 pages, 2592768 bytes).
 PDF statistics:
  3891 PDF objects out of 4296 (max. 8388607)
  2052 compressed objects within 21 object streams
