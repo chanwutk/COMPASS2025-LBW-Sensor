@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.1)  4 JUN 2025 02:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.1)  12 JUN 2025 23:54
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -724,417 +724,20 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@count@id=\count333
 \enitdp@description=\count334
 )
-(/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2025/05/20 version 6.5.0 text color boxes
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks43
-\pgfutil@tempdima=\dimen256
-\pgfutil@tempdimb=\dimen257
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box64
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-))
-Package: pgf 2023-01-15 v3.1.10 (3.1.10)
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks44
-\pgfkeys@temptoks=\toks45
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltere
-d.code.tex
-\pgfkeys@tmptoks=\toks46
-))
-\pgf@x=\dimen258
-\pgf@y=\dimen259
-\pgf@xa=\dimen260
-\pgf@ya=\dimen261
-\pgf@xb=\dimen262
-\pgf@yb=\dimen263
-\pgf@xc=\dimen264
-\pgf@yc=\dimen265
-\pgf@xd=\dimen266
-\pgf@yd=\dimen267
-\w@pgf@writea=\write4
-\r@pgf@reada=\read3
-\c@pgf@counta=\count335
-\c@pgf@countb=\count336
-\c@pgf@countc=\count337
-\c@pgf@countd=\count338
-\t@pgf@toka=\toks47
-\t@pgf@tokb=\toks48
-\t@pgf@tokc=\toks49
-\pgf@sys@id@count=\count339
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.d
-ef
-File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code
-.tex
-File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count340
-\pgfsyssoftpath@bigbuffer@items=\count341
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code
-.tex
-File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen268
-\pgfmath@count=\count342
-\pgfmath@box=\box65
-\pgfmath@toks=\toks50
-\pgfmath@stack@operand=\toks51
-\pgfmath@stack@operation=\toks52
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.cod
-e.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonome
-tric.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.co
-de.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compariso
-n.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code
-.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.cod
-e.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code
-.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerar
-ithmetics.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count343
-))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.t
-ex
-File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen269
-\pgf@picmaxx=\dimen270
-\pgf@picminy=\dimen271
-\pgf@picmaxy=\dimen272
-\pgf@pathminx=\dimen273
-\pgf@pathmaxx=\dimen274
-\pgf@pathminy=\dimen275
-\pgf@pathmaxy=\dimen276
-\pgf@xx=\dimen277
-\pgf@xy=\dimen278
-\pgf@yx=\dimen279
-\pgf@yy=\dimen280
-\pgf@zx=\dimen281
-\pgf@zy=\dimen282
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct
-.code.tex
-File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen283
-\pgf@path@lasty=\dimen284
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.cod
-e.tex
-File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen285
-\pgf@shorten@start@additional=\dimen286
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.t
-ex
-File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box66
-\pgf@hbox=\box67
-\pgf@layerbox@main=\box68
-\pgf@picture@serial@count=\count344
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.
-code.tex
-File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen287
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformatio
-ns.code.tex
-File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen288
-\pgf@pt@y=\dimen289
-\pgf@pt@temp=\dimen290
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.te
-x
-File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.
-tex
-File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessin
-g.code.tex
-File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.t
-ex
-File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen291
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.te
-x
-File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen292
-\pgf@sys@shading@range@num=\count345
-\pgf@shadingcount=\count346
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.te
-x
-File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code
-.tex
-File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box69
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.t
-ex
-File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.
-code.tex
-File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code
-.tex
-File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
-x
-File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box70
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-6
-5.sty
-Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen293
-\pgf@nodesepend=\dimen294
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-1
-8.sty
-Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (/opt/texlive/texdir/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen295
-\pgffor@skip=\dimen296
-\pgffor@stack=\toks53
-\pgffor@toks=\toks54
-))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.te
-x
-Package: tikz 2023-01-15 v3.1.10 (3.1.10)
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandler
-s.code.tex
-File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count347
-\pgfplotmarksize=\dimen297
-)
-\tikz@lastx=\dimen298
-\tikz@lasty=\dimen299
-\tikz@lastxsaved=\dimen300
-\tikz@lastysaved=\dimen301
-\tikz@lastmovetox=\dimen302
-\tikz@lastmovetoy=\dimen303
-\tikzleveldistance=\dimen304
-\tikzsiblingdistance=\dimen305
-\tikz@figbox=\box71
-\tikz@figbox@bg=\box72
-\tikz@tempbox=\box73
-\tikz@tempbox@bg=\box74
-\tikztreelevel=\count348
-\tikznumberofchildren=\count349
-\tikznumberofcurrentchild=\count350
-\tikz@fig@count=\count351
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.te
-x
-File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count352
-\pgfmatrixcurrentcolumn=\count353
-\pgf@matrix@numberofcolumns=\count354
-)
-\tikz@expandcount=\count355
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
-kzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/opt/texlive/texdir/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks55
-\verbatim@line=\toks56
-\verbatim@in@stream=\read4
-)
-\tcb@titlebox=\box75
-\tcb@upperbox=\box76
-\tcb@lowerbox=\box77
-\tcb@phantombox=\box78
-\c@tcbbreakpart=\count356
-\c@tcblayer=\count357
-\c@tcolorbox@number=\count358
-\l__tcobox_tmpa_box=\box79
-\l__tcobox_tmpa_dim=\dimen306
-\tcb@temp=\box80
-\tcb@temp=\box81
-\tcb@temp=\box82
-\tcb@temp=\box83
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
-Library (tcolorbox): 'tcbraster.code.tex' version '6.5.0'
-\c@tcbrastercolumn=\count359
-\c@tcbrasterrow=\count360
-\c@tcbrasternum=\count361
-\c@tcbraster=\count362
-) (/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
-Library (tcolorbox): 'tcbskins.code.tex' version '6.5.0'
-(/opt/texlive/texdir/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
-Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/tikzfill/tikzfill-common.sty
-Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.t
-ex
-File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
-\l__tikzfill_img_box=\box84
-))
-(/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
-Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.5.0'
-)) (/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
-Library (tcolorbox): 'tcbbreakable.code.tex' version '6.5.0'
-(/opt/texlive/texdir/texmf-dist/tex/latex/pdfcol/pdfcol.sty
-Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
-)
-Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
-\tcb@testbox=\box85
-\tcb@totalupperbox=\box86
-\tcb@totallowerbox=\box87
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
-Library (tcolorbox): 'tcbhooks.code.tex' version '6.5.0'
-) (/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
-Library (tcolorbox): 'tcbtheorems.code.tex' version '6.5.0'
-) (/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
-Library (tcolorbox): 'tcbfitting.code.tex' version '6.5.0'
-\tcbfitdim=\dimen307
-\tcb@lowerfitdim=\dimen308
-\tcb@upperfitdim=\dimen309
-\tcb@cur@hbadness=\count363
-) (/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
-Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.5.0'
-(/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
-Library (tcolorbox): 'tcblistings.code.tex' version '6.5.0'
-(/opt/texlive/texdir/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count364
-\lst@gtempboxa=\box88
-\lst@token=\toks57
-\lst@length=\count365
-\lst@currlwidth=\dimen310
-\lst@column=\count366
-\lst@pos=\count367
-\lst@lostspace=\dimen311
-\lst@width=\dimen312
-\lst@newlines=\count368
-\lst@lineno=\count369
-\lst@maxwidth=\dimen313
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/listings/lstpatch.sty
-File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
-\c@lstnumber=\count370
-\lst@skipnumbers=\count371
-\lst@framebox=\box89
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2024/09/23 1.10c listings configuration
-))
-Package: listings 2024/09/23 1.10c (Carsten Heinz)
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
-Library (tcolorbox): 'tcblistingscore.code.tex' version '6.5.0'
-(/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
-Library (tcolorbox): 'tcbprocessing.code.tex' version '6.5.0'
-)
-\c@tcblisting=\count372
-)) (/opt/texlive/texdir/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
-Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
-))
-(/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbexternal.code.tex
-Library (tcolorbox): 'tcbexternal.code.tex' version '6.5.0'
-) (/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbmagazine.code.tex
-Library (tcolorbox): 'tcbmagazine.code.tex' version '6.5.0'
-) (/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbvignette.code.tex
-Library (tcolorbox): 'tcbvignette.code.tex' version '6.5.0'
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
-kzlibraryfadings.code.tex
-File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.cod
-e.tex
-File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
-Library (tcolorbox): 'tcbposter.code.tex' version '6.5.0'
-))
 Package hyperref Info: Option `colorlinks' set `true' on input line 25.
 Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 25.
 
-\c@theorem=\count373
- (/opt/texlive/texdir/texmf-dist/tex/latex/preprint/balance.sty
+\c@theorem=\count335
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/preprint/balance.sty
 Package: balance 1999/02/23 4.3 (PWD)
-\oldvsize=\dimen314
+\oldvsize=\dimen256
 )
 Include comment 'screenonly' Excluding comment 'printonly'
 Include comment 'anonsuppress'
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count374
+\l__color_backend_stack_int=\count336
 )
 
 LaTeX Warning: Unused global option(s):
@@ -1285,23 +888,23 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 Package hyperref Info: Link coloring ON on input line 25.
  (./compass2025.out) (./compass2025.out)
-\@outlinefile=\write5
-\openout5 = `compass2025.out'.
+\@outlinefile=\write4
+\openout4 = `compass2025.out'.
 
 
 (/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count375
-\scratchdimen=\dimen315
-\scratchbox=\box90
-\nofMPsegments=\count376
-\nofMParguments=\count377
-\everyMPshowfont=\toks58
-\MPscratchCnt=\count378
-\MPscratchDim=\dimen316
-\MPnumerator=\count379
-\makeMPintoPDFobject=\count380
-\everyMPtoPDFconversion=\toks59
+\scratchcounter=\count337
+\scratchdimen=\dimen257
+\scratchbox=\box64
+\nofMPsegments=\count338
+\nofMParguments=\count339
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count340
+\MPscratchDim=\dimen258
+\MPnumerator=\count341
+\makeMPintoPDFobject=\count342
+\everyMPtoPDFconversion=\toks44
 ) (/opt/texlive/texdir/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1345,23 +948,16 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count381
-\c@mv@boldtabular=\count382
+\c@mv@tabular=\count343
+\c@mv@boldtabular=\count344
 (/opt/texlive/texdir/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
-Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count383
 
-(/opt/texlive/texdir/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks60
-\inpenc@posthook=\toks61
-)
 (./metadata/authors.tex) (./metadata/commands.tex) (./sections/0-abstract.tex)
 (./metadata/ccs-keywords-teaser-revise.tex Excluding 'CCSXML' comment.)
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
@@ -1412,7 +1008,7 @@ LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
 (Font)              scaled to size 10.0pt on input line 34.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 10.0pt on input line 34.
-<doclicense-CC-by-88x31.pdf, id=129, 90.3375pt x 31.61812pt>
+<doclicense-CC-by-88x31.pdf, id=90, 90.3375pt x 31.61812pt>
 File: doclicense-CC-by-88x31.pdf Graphic file (type pdf)
 <use doclicense-CC-by-88x31.pdf>
 Package pdftex.def Info: doclicense-CC-by-88x31.pdf  used on input line 34.
@@ -1535,6 +1131,12 @@ r/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-88x31.pdf>])
 (./sections/2-relatedwork.tex
 
 ) (./sections/3-methods.tex
+Overfull \hbox (11.45639pt too wide) in paragraph at lines 8--11
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) Ten adult mo-tor-cy-cle rideshare dri-vers 
+(five each from Bangkok/Chiang
+ []
+
+
 Underfull \hbox (badness 1490) in paragraph at lines 15--15
 \T1/LinuxLibertineT-TLF/b/n/9 (+20) Legacy: station-based) and self-estimated d
 aily av-er-age
@@ -1549,13 +1151,13 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 [2.2]) (./sections/4-results.tex (./sections/4-1-overview.tex
 
 ) (./sections/4-2-systemic.tex
-<figures/daily-pollution-per-rider.pdf, id=200, 848.16875pt x 485.815pt>
+<figures/daily-pollution-per-rider.pdf, id=160, 848.16875pt x 485.815pt>
 File: figures/daily-pollution-per-rider.pdf Graphic file (type pdf)
 <use figures/daily-pollution-per-rider.pdf>
 Package pdftex.def Info: figures/daily-pollution-per-rider.pdf  used on input l
 ine 7.
 (pdftex.def)             Requested size: 506.295pt x 289.99384pt.
-<figures/average-hourly-pollution.pdf, id=206, 1140.26pt x 381.425pt>
+<figures/average-hourly-pollution.pdf, id=166, 1140.26pt x 381.425pt>
 File: figures/average-hourly-pollution.pdf Graphic file (type pdf)
 <use figures/average-hourly-pollution.pdf>
 Package pdftex.def Info: figures/average-hourly-pollution.pdf  used on input li
@@ -1564,102 +1166,102 @@ ne 29.
 
 
 [3.3]
-<figures/map/BKK1_PM25.png, id=232, 337.5009pt x 306.4248pt>
+<figures/map/BKK1_PM25.png, id=193, 337.5009pt x 306.4248pt>
 File: figures/map/BKK1_PM25.png Graphic file (type png)
 <use figures/map/BKK1_PM25.png>
 Package pdftex.def Info: figures/map/BKK1_PM25.png  used on input line 48.
 (pdftex.def)             Requested size: 124.04366pt x 112.61794pt.
-<figures/map/BKK1_time.png, id=234, 337.5009pt x 302.0886pt>
+<figures/map/BKK1_time.png, id=195, 337.5009pt x 302.0886pt>
 File: figures/map/BKK1_time.png Graphic file (type png)
 <use figures/map/BKK1_time.png>
 Package pdftex.def Info: figures/map/BKK1_time.png  used on input line 49.
 (pdftex.def)             Requested size: 124.04366pt x 111.02428pt.
-<figures/map/BKK2_PM25.png, id=235, 337.5009pt x 306.4248pt>
+<figures/map/BKK2_PM25.png, id=196, 337.5009pt x 306.4248pt>
 File: figures/map/BKK2_PM25.png Graphic file (type png)
 <use figures/map/BKK2_PM25.png>
 Package pdftex.def Info: figures/map/BKK2_PM25.png  used on input line 50.
 (pdftex.def)             Requested size: 124.04366pt x 112.61794pt.
-<figures/map/BKK2_time.png, id=236, 337.5009pt x 302.0886pt>
+<figures/map/BKK2_time.png, id=197, 337.5009pt x 302.0886pt>
 File: figures/map/BKK2_time.png Graphic file (type png)
 <use figures/map/BKK2_time.png>
 Package pdftex.def Info: figures/map/BKK2_time.png  used on input line 51.
 (pdftex.def)             Requested size: 124.04366pt x 111.02428pt.
-<figures/map/BKK3_PM25.png, id=237, 337.5009pt x 258.0039pt>
+<figures/map/BKK3_PM25.png, id=198, 337.5009pt x 258.0039pt>
 File: figures/map/BKK3_PM25.png Graphic file (type png)
 <use figures/map/BKK3_PM25.png>
 Package pdftex.def Info: figures/map/BKK3_PM25.png  used on input line 52.
 (pdftex.def)             Requested size: 124.04366pt x 94.82217pt.
-<figures/map/BKK3_time.png, id=238, 337.5009pt x 251.4996pt>
+<figures/map/BKK3_time.png, id=199, 337.5009pt x 251.4996pt>
 File: figures/map/BKK3_time.png Graphic file (type png)
 <use figures/map/BKK3_time.png>
 Package pdftex.def Info: figures/map/BKK3_time.png  used on input line 53.
 (pdftex.def)             Requested size: 124.04366pt x 92.4317pt.
-<figures/map/BKK4_PM25.png, id=239, 337.5009pt x 306.4248pt>
+<figures/map/BKK4_PM25.png, id=200, 337.5009pt x 306.4248pt>
 File: figures/map/BKK4_PM25.png Graphic file (type png)
 <use figures/map/BKK4_PM25.png>
 Package pdftex.def Info: figures/map/BKK4_PM25.png  used on input line 54.
 (pdftex.def)             Requested size: 124.04366pt x 112.61794pt.
-<figures/map/BKK4_time.png, id=240, 337.5009pt x 302.0886pt>
+<figures/map/BKK4_time.png, id=201, 337.5009pt x 302.0886pt>
 File: figures/map/BKK4_time.png Graphic file (type png)
 <use figures/map/BKK4_time.png>
 Package pdftex.def Info: figures/map/BKK4_time.png  used on input line 55.
 (pdftex.def)             Requested size: 124.04366pt x 111.02428pt.
-<figures/map/BKK5_PM25.png, id=241, 337.5009pt x 272.4579pt>
+<figures/map/BKK5_PM25.png, id=202, 337.5009pt x 272.4579pt>
 File: figures/map/BKK5_PM25.png Graphic file (type png)
 <use figures/map/BKK5_PM25.png>
 Package pdftex.def Info: figures/map/BKK5_PM25.png  used on input line 56.
 (pdftex.def)             Requested size: 124.04366pt x 100.13434pt.
-<figures/map/BKK5_time.png, id=242, 337.5009pt x 268.1217pt>
+<figures/map/BKK5_time.png, id=203, 337.5009pt x 268.1217pt>
 File: figures/map/BKK5_time.png Graphic file (type png)
 <use figures/map/BKK5_time.png>
 Package pdftex.def Info: figures/map/BKK5_time.png  used on input line 57.
 (pdftex.def)             Requested size: 124.04366pt x 98.5407pt.
-<figures/map/CMI1_PM25.png, id=243, 337.5009pt x 247.8861pt>
+<figures/map/CMI1_PM25.png, id=204, 337.5009pt x 247.8861pt>
 File: figures/map/CMI1_PM25.png Graphic file (type png)
 <use figures/map/CMI1_PM25.png>
 Package pdftex.def Info: figures/map/CMI1_PM25.png  used on input line 63.
 (pdftex.def)             Requested size: 124.04366pt x 91.10365pt.
-<figures/map/CMI1_time.png, id=244, 346.896pt x 247.8861pt>
+<figures/map/CMI1_time.png, id=205, 346.896pt x 247.8861pt>
 File: figures/map/CMI1_time.png Graphic file (type png)
 <use figures/map/CMI1_time.png>
 Package pdftex.def Info: figures/map/CMI1_time.png  used on input line 64.
 (pdftex.def)             Requested size: 124.04366pt x 88.63751pt.
-<figures/map/CMI2_PM25.png, id=245, 337.5009pt x 300.6432pt>
+<figures/map/CMI2_PM25.png, id=206, 337.5009pt x 300.6432pt>
 File: figures/map/CMI2_PM25.png Graphic file (type png)
 <use figures/map/CMI2_PM25.png>
 Package pdftex.def Info: figures/map/CMI2_PM25.png  used on input line 65.
 (pdftex.def)             Requested size: 124.04366pt x 110.49307pt.
-<figures/map/CMI2_time.png, id=246, 346.896pt x 304.9794pt>
+<figures/map/CMI2_time.png, id=207, 346.896pt x 304.9794pt>
 File: figures/map/CMI2_time.png Graphic file (type png)
 <use figures/map/CMI2_time.png>
 Package pdftex.def Info: figures/map/CMI2_time.png  used on input line 66.
 (pdftex.def)             Requested size: 124.04366pt x 109.05257pt.
-<figures/map/CMI3_PM25.png, id=247, 337.5009pt x 255.8358pt>
+<figures/map/CMI3_PM25.png, id=208, 337.5009pt x 255.8358pt>
 File: figures/map/CMI3_PM25.png Graphic file (type png)
 <use figures/map/CMI3_PM25.png>
 Package pdftex.def Info: figures/map/CMI3_PM25.png  used on input line 67.
 (pdftex.def)             Requested size: 124.04366pt x 94.02536pt.
-<figures/map/CMI3_time.png, id=248, 346.896pt x 255.8358pt>
+<figures/map/CMI3_time.png, id=209, 346.896pt x 255.8358pt>
 File: figures/map/CMI3_time.png Graphic file (type png)
 <use figures/map/CMI3_time.png>
 Package pdftex.def Info: figures/map/CMI3_time.png  used on input line 68.
 (pdftex.def)             Requested size: 124.04366pt x 91.48012pt.
-<figures/map/CMI4_PM25.png, id=249, 337.5009pt x 269.5671pt>
+<figures/map/CMI4_PM25.png, id=210, 337.5009pt x 269.5671pt>
 File: figures/map/CMI4_PM25.png Graphic file (type png)
 <use figures/map/CMI4_PM25.png>
 Package pdftex.def Info: figures/map/CMI4_PM25.png  used on input line 69.
 (pdftex.def)             Requested size: 124.04366pt x 99.07191pt.
-<figures/map/CMI4_time.png, id=250, 346.896pt x 272.4579pt>
+<figures/map/CMI4_time.png, id=211, 346.896pt x 272.4579pt>
 File: figures/map/CMI4_time.png Graphic file (type png)
 <use figures/map/CMI4_time.png>
 Package pdftex.def Info: figures/map/CMI4_time.png  used on input line 70.
 (pdftex.def)             Requested size: 124.04366pt x 97.42374pt.
-<figures/map/CMI5_PM25.png, id=251, 337.5009pt x 284.7438pt>
+<figures/map/CMI5_PM25.png, id=212, 337.5009pt x 284.7438pt>
 File: figures/map/CMI5_PM25.png Graphic file (type png)
 <use figures/map/CMI5_PM25.png>
 Package pdftex.def Info: figures/map/CMI5_PM25.png  used on input line 71.
 (pdftex.def)             Requested size: 124.04366pt x 104.64969pt.
-<figures/map/CMI5_time.png, id=252, 346.896pt x 288.3573pt>
+<figures/map/CMI5_time.png, id=213, 346.896pt x 288.3573pt>
 File: figures/map/CMI5_time.png Graphic file (type png)
 <use figures/map/CMI5_time.png>
 Package pdftex.def Info: figures/map/CMI5_time.png  used on input line 72.
@@ -1691,34 +1293,95 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 7.
 
 
-<figures/work-hours-vs-aqi-per-rider-regression.pdf, id=442, 1133.23375pt x 528
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 11.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 18.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 24.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 31.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 37.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 41.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 47.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 58.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 64.
+
+
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 68.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 74.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 81.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 87.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 103.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 109.
+
+<figures/work-hours-vs-aqi-per-rider-regression.pdf, id=403, 1133.23375pt x 528
 .97626pt>
 File: figures/work-hours-vs-aqi-per-rider-regression.pdf Graphic file (type pdf
 )
 <use figures/work-hours-vs-aqi-per-rider-regression.pdf>
 Package pdftex.def Info: figures/work-hours-vs-aqi-per-rider-regression.pdf  us
-ed on input line 83.
+ed on input line 116.
 (pdftex.def)             Requested size: 506.295pt x 236.32594pt.
 )) (./sections/5-discussion.tex
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
-(Font)              scaled to size 9.0pt on input line 11.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [6.6]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
+(Font)              scaled to size 9.0pt on input line 11.
 
-) (./sections/6-conclusion.tex
-Underfull \vbox (badness 2478) has occurred while \output is active []
 
 
 
 [7.7{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc} 
 <./figures/work-hours-vs-aqi-per-rider-regression.pdf>])
-(./sections/7-acknowledgement.tex Processing 'acks' comment.
+(./sections/6-conclusion.tex) (./sections/7-acknowledgement.tex
+Processing 'acks' comment.
 \openout3 = `comment.cut'.
 
-
-Comment 'acks' writing to comment.cut. Straight input of comment.cut.
-(./comment.cut)) (./compass2025.bbl
+ Comment 'acks' writing to comment.cut.
+Straight input of comment.cut. (./comment.cut)) (./compass2025.bbl
 LaTeX Info: Redefining \tempurl on input line 54.
 LaTeX Info: Redefining \tempurl on input line 67.
 LaTeX Info: Redefining \tempurl on input line 100.
@@ -1748,10 +1411,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 297--303
 LaTeX Info: Redefining \tempurl on input line 312.
 )
 
-
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
-
 (/opt/texlive/texdir/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 )
@@ -1767,13 +1426,13 @@ Package rerunfilecheck Info: File `compass2025.out' has not changed.
 (rerunfilecheck)             Checksum: C77967F1245549076E2E79A938F5FB67;3240.
  ) 
 Here is how much of TeX's memory you used:
- 38603 strings out of 469590
- 750066 string characters out of 5472431
- 1230332 words of memory out of 5000000
- 64030 multiletter control sequences out of 15000+600000
+ 22179 strings out of 469590
+ 365164 string characters out of 5472431
+ 867799 words of memory out of 5000000
+ 47900 multiletter control sequences out of 15000+600000
  800974 words of font info for 432 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 98i,12n,131p,1008b,976s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,12n,131p,1008b,711s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb>
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/newtx/LibertineMathMI5.pfb><
 /opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></
@@ -1784,10 +1443,10 @@ opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb><
 /opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb
 ></opt/texlive/texdir/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pf
 b></opt/texlive/texdir/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on compass2025.pdf (8 pages, 2592768 bytes).
+Output written on compass2025.pdf (8 pages, 2589319 bytes).
 PDF statistics:
- 3891 PDF objects out of 4296 (max. 8388607)
- 2052 compressed objects within 21 object streams
+ 3852 PDF objects out of 4296 (max. 8388607)
+ 2037 compressed objects within 21 object streams
  79 named destinations out of 1000 (max. 500000)
- 94645 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 94489 words of extra memory for PDF output out of 106986 (max. 10000000)
 

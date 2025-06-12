@@ -1,14 +1,6 @@
-\newtcolorbox{quack}{
-  breakable,
-  enhanced,
-  frame hidden,
-  interior hidden,
-  size=minimal,
-  left skip=-3pt,
-  borderline west={1.5pt}{-8pt}{lightgray}
-}
-
-\newenvironment{quoteb}{\begin{quote}\begin{quack}}{\end{quack}\end{quote}}
+\setlength{\fboxrule}{.6pt}
+\setlength{\fboxsep}{5pt}
+\newcommand{\qpadding}{\vspace{1em}}
 
 \newcommand{\joe}[1]{\textcolor{cyan}{[Joe: #1]}}
 \newcommand{\mick}[1]{\textcolor{olive}{[mick: #1]}}
@@ -17,8 +9,6 @@
 \newcommand{\todo}[1]{\textcolor{red}{[TODOs: #1]}}
 \newcommand{\reread}[1]{\textcolor{blue}{[reread: #1]}}
 
-
-\newcommand{\grab}[1]{\textcolor{red}{\textsc{RideshareCompanyA}}}
 
 \renewcommand{\shortauthors}{Tieanklin et al.}
 
