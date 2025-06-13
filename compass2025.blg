@@ -1,0 +1,84 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: compass2025.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no key, author in iqr_rank
+Warning--no author, editor, organization, or key in iqr_rank
+Warning--to sort, need author or key in iqr_rank
+Warning--no key, author in mapvis
+Warning--no author, editor, organization, or key in mapvis
+Warning--to sort, need author or key in mapvis
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Warning--no key, author in iqr_rank
+Warning--no key, author in iqr_rank
+Warning--no key, author in mapvis
+Warning--no key, author in mapvis
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Warning--no key, author in iqr_rank
+Warning--empty author in iqr_rank
+Warning--empty year in iqr_rank
+Warning--using n.d. in iqr_rank
+Warning--no key, author in mapvis
+Warning--empty author in mapvis
+Warning--empty year in mapvis
+Warning--using n.d. in mapvis
+Warning--empty publisher in li2010stage
+Warning--empty address in li2010stage
+Warning--no number and no volume in kathleen2008team
+Warning--no number and no volume in nguyen2023bangkokpollution
+Warning--no journal in saldana2021coding
+Warning--no number and no volume in saldana2021coding
+Warning--page numbers missing in both pages and numpages fields in saldana2021coding
+Warning--no journal in slater2022air
+Warning--no number and no volume in slater2022air
+Warning--page numbers missing in both pages and numpages fields in slater2022air
+You've used 22 entries,
+            6056 wiz_defined-function locations,
+            1776 strings with 25236 characters,
+and the built_in function-call counts, 21961 in all, are:
+= -- 2776
+> -- 770
+< -- 0
++ -- 263
+- -- 279
+* -- 1585
+:= -- 2195
+add.period$ -- 100
+call.type$ -- 22
+change.case$ -- 162
+chr.to.int$ -- 22
+cite$ -- 58
+duplicate$ -- 1857
+empty$ -- 1345
+format.name$ -- 331
+if$ -- 5278
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 48
+newline$ -- 240
+num.names$ -- 140
+pop$ -- 791
+preamble$ -- 1
+purify$ -- 327
+quote$ -- 0
+skip$ -- 654
+stack$ -- 0
+substring$ -- 1444
+swap$ -- 138
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 520
+warning$ -- 28
+while$ -- 122
+width$ -- 0
+write$ -- 462
+(There were 28 warnings)
