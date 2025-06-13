@@ -39,12 +39,12 @@ jobs:
         ls -lah ../COMPASS2025-LBW-Sensor_arXiv
         ls -lah build
 
-    - name: Build LaTeX
-      uses: xu-cheng/latex-action@v3
-      with:
-        working_directory: build
-        root_file: compass2025.tex
-        latexmk_shell_escape: true
+    # - name: Build LaTeX
+    #   uses: xu-cheng/latex-action@v3
+    #   with:
+    #     working_directory: build
+    #     root_file: compass2025.tex
+    #     latexmk_shell_escape: true
 
     - name: Package Cleaned LaTeX
       uses: JamesIves/github-pages-deploy-action@v4
